@@ -1,0 +1,20 @@
+
+
+nav>ul>li>a{
+    text-decoration: none;
+}
+.sec-one{
+    display:flex;
+}
+label{
+    display: block;
+    margin: 9px;
+}
+
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 3px solid rgb(0, 140, 255);
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+nav > ul > li{
+    display:inline;
+    margin: 20px ;
+    text-align:right;
+}
+nav>ul{
+    display: flex;
+}
+
+nav>ul>li:hover{
+    background-color: antiquewhite;
+    padding: 5px;
+
+}
+
+img{
+    border-radius:50%;
+}
